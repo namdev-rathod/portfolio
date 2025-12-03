@@ -4,13 +4,13 @@
 
 📧 **[namdev.it@gmail.com](mailto:namdev.it@gmail.com)** 
 
-📱 **+91-9860755532**
+📱 **+91 - 7276 12 1983**
 
 🔗 **LinkedIn:** [https://www.linkedin.com/in/namdevrathod/](https://www.linkedin.com/in/namdevrathod/)
 
 🔗 **GitHub:** [https://github.com/namdev-rathod](https://github.com/namdev-rathod)
 
-🔗 **YouTube:** [https://www.youtube.com/@namdev.devops](https://www.youtube.com/@namdev.devops)
+🔗 **YouTube:** [DevOps With Namdev](https://www.youtube.com/@namdev.devops)
 
 
 ---
@@ -79,7 +79,7 @@ I build complete, enterprise-grade DevOps ecosystems focusing on **automation, r
 
 ---
 
-# 💼 **Professional Experience (Company Names Removed)**
+# 💼 **Professional Experience**
 
 ## 🔹 **Senior DevOps Engineer (2019 – Present)**
 
@@ -92,25 +92,13 @@ I build complete, enterprise-grade DevOps ecosystems focusing on **automation, r
 * Implemented Nginx reverse proxy + SSL + load balancing
 * IAM governance, VPC design, encryption, security policies
 * Guided teams & collaborated with clients on architecture & solutions
-
-## 🔹 **DevOps Engineer (2017 – 2018)**
-
 * Managed cloud deployments, monitoring, automation & scaling
-
-## 🔹 **System Administrator & Data Center Roles (2011 – 2017)**
-
 * Managed servers, hybrid cloud, database migrations (MySQL → RDS)
 * Implemented monitoring, security governance, backup strategies
 
 ---
 
-# 🏗️ **📌 Enterprise DevOps Platform Project (Flagship Project)**
-
-### ⭐ *Complete End-to-End Cloud-Native DevOps System — All Skills Combined*
-
-This is the **main highlight project** in your portfolio to showcase your real-world senior DevOps capabilities.
-
----
+# 🏗️ **📌 Enterprise DevOps Platform Project**
 
 # 🚀 **Cloud-Native Enterprise DevOps Platform (Full End-to-End Architecture)**
 
