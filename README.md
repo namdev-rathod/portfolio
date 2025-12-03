@@ -2,11 +2,16 @@
 
 ### **Senior DevOps Engineer | AWS & Kubernetes Certified | Cloud, Infra & FinOps Specialist**
 
-📧 **[namdev.it@gmail.com](mailto:namdev.it@gmail.com)**
+📧 **[namdev.it@gmail.com](mailto:namdev.it@gmail.com)** 
+
 📱 **+91-9860755532**
+
 🔗 **LinkedIn:** [https://www.linkedin.com/in/namdevrathod/](https://www.linkedin.com/in/namdevrathod/)
+
 🔗 **GitHub:** [https://github.com/namdev-rathod](https://github.com/namdev-rathod)
+
 🔗 **YouTube:** [https://www.youtube.com/@namdev.devops](https://www.youtube.com/@namdev.devops)
+
 
 ---
 
