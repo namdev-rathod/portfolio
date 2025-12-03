@@ -270,6 +270,29 @@ I build complete, enterprise-grade DevOps ecosystems focusing on **automation, r
 
 ---
 
+# 💼 **Services Offered**
+
+| **Category**                             | **Services Included**                                                                                         |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Consultations**                        | Cloud consulting, architecture review, DevOps roadmap, cost optimization advisory, security audits            |
+| **Re-Architecting Infrastructure**       | Legacy to cloud modernization, monolith → microservices, high-availability redesign, resilience & DR planning |
+| **Complete Infrastructure Setup**        | AWS environment setup, EKS cluster deployment, CI/CD pipelines, monitoring & security automation              |
+| **Application Development**              | Backend APIs, microservices development, container-ready apps, automation tooling                             |
+| **Migrations**                           | On-Prem → AWS migration, MySQL/PostgreSQL → RDS, VM → containers, application containerization                |
+| **Corporate & Team Training**            | AWS, DevOps, Kubernetes, CI/CD, GitHub Actions, Terraform, Cloud Career Mentoring                             |
+| **CI/CD Pipeline Creation**              | Jenkins pipelines, GitHub Actions workflows, GitLab CI & Harness pipelines, automated deployment systems      |
+| **Kubernetes Deployment & Optimization** | EKS setup, autoscaling (HPA), ingress, monitoring, cost-efficient scaling strategies                          |
+| **DevSecOps Implementation**             | SonarQube, Trivy, Checkov, GitLeaks integration, secure CI/CD pipelines, compliance enforcement               |
+| **Monitoring & Observability Setup**     | Grafana, Prometheus, Datadog APM, CloudWatch dashboards, alerting systems                                     |
+| **Server Setup & Optimization**          | Nginx/Apache reverse proxy, SSL, caching, tuning, hardening                                                   |
+| **Automation & Scripting**               | Python/Bash automation tools, cron tasks, infra cleanup scripts, serverless automation                        |
+| **Cloud Cost Optimization (FinOps)**     | Rightsizing, billing reviews, S3 lifecycle optimization, Spot instance strategy                               |
+| **Disaster Recovery & Backup Solutions** | Automated DB backups, cross-region failover setup, snapshot lifecycle policies                                |
+| **Performance Optimization**             | API tuning, CDN integration, caching layers, load testing & analysis                                          |
+| **Freelance Project Execution**          | End-to-end project delivery, documentation, handover & knowledge transfer                                     |
+
+---
+
 # 📞 **Contact Me**
 
 📧 **[namdev.it@gmail.com](mailto:namdev.it@gmail.com)**
