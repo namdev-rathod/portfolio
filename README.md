@@ -3,9 +3,13 @@
 ### **Senior DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD Automation**
 
 📧 **Email:** [namdev.devops@gmail.com](mailto:namdev.devops@gmail.com)
+
 📱 **WhatsApp:** +91-7276-12-1983
+
 🌐 **YouTube:** [https://www.youtube.com/@namdev.devops](https://www.youtube.com/@namdev.devops)
+
 🔗 **GitHub:** [https://github.com/namdev-rathod](https://github.com/namdev-rathod)
+
 
 ---
 
