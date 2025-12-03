@@ -67,15 +67,17 @@ I build complete, enterprise-grade DevOps ecosystems focusing on **automation, r
 
 # 🛠️ **Tools & Technologies**
 
-**Cloud:** AWS, Azure
-**IaC:** Terraform, CDK, CloudFormation
-**CI/CD:** Jenkins, GitHub Actions, GitLab CI, Harness, GoCD
-**Containers:** Docker, Kubernetes, Helm, EKS, ECS Fargate
-**Monitoring:** Datadog APM, Prometheus, Grafana, Nagios, CloudWatch
-**Security:** IAM, KMS, Secret Manager, WAF, DevSecOps Tools
-**Databases:** MySQL, PostgreSQL, DynamoDB, MongoDB
-**Scripting:** Python, Shell/Bash, NodeJS
-**Servers:** Nginx, Apache, Tomcat
+| **Category**   | **Tools & Technologies**                             |
+| -------------- | ---------------------------------------------------- |
+| **Cloud**      | AWS, Azure                                           |
+| **IaC**        | Terraform, AWS CDK, CloudFormation                   |
+| **CI/CD**      | Jenkins, GitHub Actions, GitLab CI, Harness, GoCD    |
+| **Containers** | Docker, Kubernetes, Helm, EKS, ECS Fargate           |
+| **Monitoring** | Datadog APM, Prometheus, Grafana, Nagios, CloudWatch |
+| **Security**   | IAM, KMS, Secret Manager, WAF, DevSecOps Tools       |
+| **Databases**  | MySQL, PostgreSQL, DynamoDB, MongoDB                 |
+| **Scripting**  | Python, Shell/Bash, NodeJS                           |
+| **Servers**    | Nginx, Apache, Tomcat                                |
 
 ---
 
