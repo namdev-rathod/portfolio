@@ -1,140 +1,282 @@
 # 🚀 **DevOps Portfolio – Namdev Rathod**
 
-### **Senior DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD Automation**
+### **Senior DevOps Engineer | AWS & Kubernetes Certified | Cloud, Infra & FinOps Specialist**
 
-📧 **Email:** [namdev.devops@gmail.com](mailto:namdev.devops@gmail.com)
-
-📱 **WhatsApp:** +91-7276-12-1983
-
-🌐 **YouTube:** [https://www.youtube.com/@namdev.devops](https://www.youtube.com/@namdev.devops)
-
+📧 **[namdev.it@gmail.com](mailto:namdev.it@gmail.com)**
+📱 **+91-9860755532**
+🔗 **LinkedIn:** [https://www.linkedin.com/in/namdevrathod/](https://www.linkedin.com/in/namdevrathod/)
 🔗 **GitHub:** [https://github.com/namdev-rathod](https://github.com/namdev-rathod)
-
-
----
-
-<p align="center">
-  <img src="namdev-devops-banner.png" alt="DevOps Portfolio Banner" />
-</p>
-
-## 🧑‍💻 **About Me**
-
-I am **Namdev Rathod**, a **Senior DevOps Engineer** with over **14 years of experience** across industries like **Web Hosting, E-Commerce, Logistics, Banking, Support Services, and Data Centers**.
-
-I help businesses build **secure, scalable, automated, highly-available cloud architectures** using AWS, Kubernetes, Docker, Terraform, CI/CD, and advanced DevOps tooling.
-
-This repository showcases my **professional DevOps portfolio** and acts as a central hub for my work, solutions, projects, and cloud architectures.
+🔗 **YouTube:** [https://www.youtube.com/@namdev.devops](https://www.youtube.com/@namdev.devops)
 
 ---
 
-## 🏆 **Key Skills & Technologies**
+# 🌟 **About Me**
 
-### 🔹 **Cloud & DevOps**
+I am **Namdev Rathod**, a **Senior DevOps Engineer with 14+ years of experience** building scalable, secure, automated cloud platforms across **E-Commerce, Banking, Logistics, Hosting, and Data Center** industries.
 
-* AWS (EC2, VPC, RDS, S3, EKS, Lambda, CloudFront, IAM, WAF, ALB)
-* AWS DevOps & Automation
-* CI/CD (Jenkins, GitHub Actions)
-* Git, GitHub, GitOps
+I specialize in:
 
-### 🔹 **Containers & Orchestration**
+* **AWS Cloud Engineering & Architecture**
+* **Kubernetes (EKS) Production Environments**
+* **Infrastructure Automation (Terraform, AWS CDK)**
+* **CI/CD – Jenkins, GitHub Actions, GitLab, Harness**
+* **DevSecOps – SonarQube, Trivy, Checkov, GitLeaks**
+* **FinOps – Cloud Cost Optimization & Governance**
+* **Monitoring & Observability – Datadog, Grafana, Prometheus, CloudWatch**
 
-* Docker
-* Kubernetes (EKS)
-* Helm Charts
-* Autoscaling (HPA), Ingress, Load Balancers
+I build complete, enterprise-grade DevOps ecosystems focusing on **automation, reliability, security, high availability, and cost efficiency**.
 
-### 🔹 **Infrastructure as Code**
+---
 
-* Terraform
-* AWS CDK
-* CloudFormation (basic)
+# 🏆 **Certifications**
 
-### 🔹 **Monitoring, Logging & Security**
+* 🎖 **Certified Kubernetes Administrator (CKA)**
+* 🎖 **AWS Solutions Architect – Professional**
+* 🎖 **AWS Solutions Architect – Associate**
+* 🎖 **RedHat Certified Engineer (RHCE)**
 
+---
+
+# 🌱 **Community & Personal Brand**
+
+### 🌩️ **AWS Community Builder – Cloud DevOps & Operations**
+
+### ▶️ **YouTube – DevOps With Namdev (7,500+ Subscribers)**
+
+* 250+ DevOps & Cloud Videos
+* 400k+ Views Worldwide
+* Helped 20+ people get DevOps roles
+
+### 🔗 **LinkedIn Thought Leader (13,000+ Followers)**
+
+* 1M++ Impressions, 8,500+ Engagements
+* Daily technical & career content
+
+---
+
+# 🧩 **Core Skills**
+
+**Infrastructure Automation • Cloud Security • CI/CD • Kubernetes • DevSecOps • FinOps • High Availability Architecture • Observability • System Hardening • AWS Migration • Hybrid Cloud • Compliance & Audits**
+
+---
+
+# 🛠️ **Tools & Technologies**
+
+**Cloud:** AWS, Azure
+**IaC:** Terraform, CDK, CloudFormation
+**CI/CD:** Jenkins, GitHub Actions, GitLab CI, Harness, GoCD
+**Containers:** Docker, Kubernetes, Helm, EKS, ECS Fargate
+**Monitoring:** Datadog APM, Prometheus, Grafana, Nagios, CloudWatch
+**Security:** IAM, KMS, Secret Manager, WAF, DevSecOps Tools
+**Databases:** MySQL, PostgreSQL, DynamoDB, MongoDB
+**Scripting:** Python, Shell/Bash, NodeJS
+**Servers:** Nginx, Apache, Tomcat
+
+---
+
+# 💼 **Professional Experience (Company Names Removed)**
+
+## 🔹 **Senior DevOps Engineer (2019 – Present)**
+
+* Designed & automated complete **AWS infrastructure** using Terraform, CDK & CloudFormation
+* Deployed **EKS clusters** with autoscaling, observability, and zero-downtime deployments
+* Implemented **FinOps** practices reducing cloud cost 30–45%
+* Automated CI/CD pipelines using Jenkins & GitHub Actions
+* Integrated **SonarQube, Trivy, Checkov** for DevSecOps
+* Built monitoring stack using **Datadog APM, Prometheus, Grafana**
+* Implemented Nginx reverse proxy + SSL + load balancing
+* IAM governance, VPC design, encryption, security policies
+* Guided teams & collaborated with clients on architecture & solutions
+
+## 🔹 **DevOps Engineer (2017 – 2018)**
+
+* Managed cloud deployments, monitoring, automation & scaling
+
+## 🔹 **System Administrator & Data Center Roles (2011 – 2017)**
+
+* Managed servers, hybrid cloud, database migrations (MySQL → RDS)
+* Implemented monitoring, security governance, backup strategies
+
+---
+
+# 🏗️ **📌 Enterprise DevOps Platform Project (Flagship Project)**
+
+### ⭐ *Complete End-to-End Cloud-Native DevOps System — All Skills Combined*
+
+This is the **main highlight project** in your portfolio to showcase your real-world senior DevOps capabilities.
+
+---
+
+# 🚀 **Cloud-Native Enterprise DevOps Platform (Full End-to-End Architecture)**
+
+### 🔥 Technologies Used
+
+`AWS • Terraform • CDK • EKS • Helm • Docker • Jenkins • GitHub Actions • SonarQube • Trivy • Grafana • Prometheus • Datadog APM • CloudWatch • Nginx • FinOps • Python Automation`
+
+---
+
+## 1️⃣ **AWS Multi-Account Architecture**
+
+* Separate accounts for **Prod • Stage • Dev • Logging • Security**
+* IAM Identity Center (SSO)
+* GuardDuty, SecurityHub, WAF, CloudTrail logging
+
+---
+
+## 2️⃣ **Infrastructure as Code (Terraform + CDK)**
+
+### **Terraform Modules Built:**
+
+* VPC + Subnets + NAT
+* EKS Cluster + Node Groups
+* RDS PostgreSQL
+* S3 Buckets
+* CloudFront CDN
+* IAM Roles / Policies
+* ElasticCache Redis
+
+### **CDK Used For:**
+
+* Lambda-based automation
+* DynamoDB tables
+* EventBridge alerting rules
+
+---
+
+## 3️⃣ **Kubernetes (EKS) Production Setup**
+
+* Multi-node EKS cluster
+* Horizontal Pod Autoscaling (HPA)
+* Cluster Autoscaler
+* Nginx Ingress Controller
+* Service Mesh (optional)
+* IRSA (IAM Roles for Service Accounts)
+* Secrets Management (AWS Secrets Manager + K8s Secrets)
+* Production-grade Network Policies
+
+---
+
+## 4️⃣ **CI/CD Pipelines (Jenkins + GitHub Actions)**
+
+### **CI Includes:**
+
+✔ Code checkout
+✔ Unit tests
+✔ SonarQube scan (SAST)
+✔ Docker Build & Push to ECR
+✔ Trivy container scanning
+✔ Terraform validate & plan
+
+### **CD Includes:**
+
+✔ Helm chart deployment to EKS
+✔ Automated environment promotions
+✔ Blue-Green & Canary deployments
+✔ Slack notifications
+✔ Auto rollback
+
+---
+
+## 5️⃣ **DevSecOps Integration**
+
+* SonarQube (SAST)
+* Trivy (Image scanning)
+* Checkov (IaC scanning)
+* GitLeaks (Secrets scanning)
+* WAF + Shield protection
+* KMS encryption & IAM least privilege
+
+---
+
+## 6️⃣ **Monitoring & Observability**
+
+### Tools:
+
+* Datadog APM
+* Grafana
+* Prometheus
 * CloudWatch
-* Prometheus + Grafana
-* Security Hardening
-* Cost Optimization
+* AlertManager
 
-### 🔹 **Additional Tools**
+### Metrics:
 
-* SonarQube
-* Nginx, Apache
-* Linux Administration
-* Bash & Shell Scripting
+* RED metrics (Requests, Errors, Duration)
+* Application performance traces
+* EKS cluster metrics
+* Cost dashboards
 
 ---
 
-## 📂 **What This Portfolio Contains**
+## 7️⃣ **FinOps – Cloud Cost Optimization**
 
-This repo contains **end-to-end DevOps projects**, including:
-
-### ✔️ **1. AWS Cloud Architectures**
-
-* VPC Architecture
-* EKS Cluster Setup
-* Multi-tier Application Architecture
-* High-Availability & Auto Scaling
-
-### ✔️ **2. CI/CD Pipelines**
-
-* Jenkins Pipelines
-* GitHub Actions Workflows
-* Docker Build/Push automation
-* Deployment pipelines to EKS / EC2
-
-### ✔️ **3. Kubernetes Projects**
-
-* Deployment, Service, Ingress
-* HPA Autoscaling setup
-* EKS cluster bootstrap
-* Observability stack
-
-### ✔️ **4. Terraform & CDK Projects**
-
-* VPC modules
-* EC2/EKS infrastructure-as-code
-* IAM roles automation
-* Reusable cloud modules
-
-### ✔️ **5. Automation Scripts**
-
-* Bash scripts for deployments
-* AWS CLI automation
-* Backup scripts
-* Security audits
-
-### ✔️ **6. Documentation & Guides**
-
-* DevOps best practices
-* Architecture diagrams
-* Troubleshooting guides
+* Rightsizing compute
+* Spot instance usage for workers
+* Idle resource cleanup automation
+* S3 lifecycle policies
+* Reserved instance planning
+* Tag-based cost allocation
+* Monthly cost reports
 
 ---
 
-## 🎯 **Who This Portfolio Is For**
+## 8️⃣ **Migration Workflows**
 
-This portfolio is designed for:
-
-* ✔️ IT Clients
-* ✔️ Recruiters
-* ✔️ Freelancing Platforms (Upwork/Fiverr)
-* ✔️ Cloud Architects evaluating my work
-* ✔️ Engineering Teams looking for consulting support
+* On-Prem → AWS migration blueprint
+* MySQL → AWS RDS via AWS DMS
+* App containerization & transition to EKS
 
 ---
 
-## 📞 **Contact Me**
+## 9️⃣ **Automation Scripts (Python + Bash)**
 
-If you are looking for **DevOps consulting, cloud architecture, CI/CD automation, or freelance project support**, feel free to contact me.
-
-📧 **Email:** [namdev.devops@gmail.com](mailto:namdev.devops@gmail.com)
-📱 **WhatsApp:** +91-7276-12-1983
+* Infra cleanup
+* Certificate renewal
+* EKS deploy scripts
+* Cost analyzer
+* Backup/restore automation
 
 ---
 
-## ⭐ **Show Your Support**
+# 🧪 **Additional Projects (Included in Portfolio)**
 
-If you like this portfolio, please ⭐ **star this repository** — it motivates me to share more real-world DevOps projects.
+### **1. CI/CD Pipeline for Microservices using GitHub Actions**
+
+* Multi-service parallel build
+* Dynamic version tagging
+* Deployment matrix by environment
+
+### **2. Terraform Infrastructure Blueprint (Reusable Modules)**
+
+* VPC module
+* EKS module
+* RDS module
+
+### **3. Kubernetes Production Deployment Templates**
+
+* Helm charts
+* Pod autoscaling
+* Ingress routing
+* Security policies
+
+### **4. Nginx Reverse Proxy + SSL Automation Setup**
+
+* Domain routing
+* Let’s Encrypt automation
+* Load balancing
+
+### **5. Datadog + Prometheus Monitoring Integration**
+
+* Dashboards
+* Alerts
+* Tracing
+
+---
+
+# 📞 **Contact Me**
+
+📧 **[namdev.it@gmail.com](mailto:namdev.it@gmail.com)**
+📱 **+91-9860755532**
+🔗 **LinkedIn:** [https://www.linkedin.com/in/namdevrathod/](https://www.linkedin.com/in/namdevrathod/)
+🔗 **YouTube:** [DevOps With Namdev](https://www.youtube.com/@namdev.devops)
 
 ---
