@@ -102,7 +102,7 @@ I build complete, enterprise-grade DevOps ecosystems focusing on **automation, r
 
 # 🏗️ **📌 Enterprise DevOps Platform Project**
 
-# 🚀 **Cloud-Native Enterprise DevOps Platform (Full End-to-End Architecture)**
+🚀 *Cloud-Native Enterprise DevOps Platform (Full End-to-End Architecture)*
 
 ### 🔥 Technologies Used
 
@@ -123,12 +123,12 @@ I build complete, enterprise-grade DevOps ecosystems focusing on **automation, r
 ### **Terraform Modules Built:**
 
 * VPC + Subnets + NAT
-* EKS Cluster + Node Groups
+* EKS Cluster + Node Groups For Multiple Environments
 * RDS PostgreSQL
 * S3 Buckets
 * CloudFront CDN
 * IAM Roles / Policies
-* ElasticCache Redis
+* ElastiCache Redis
 
 ### **CDK Used For:**
 
@@ -211,6 +211,7 @@ I build complete, enterprise-grade DevOps ecosystems focusing on **automation, r
 * Reserved instance planning
 * Tag-based cost allocation
 * Monthly cost reports
+* Lower Environment Daily Scheduler For Stop/Start
 
 ---
 
@@ -245,6 +246,7 @@ I build complete, enterprise-grade DevOps ecosystems focusing on **automation, r
 * VPC module
 * EKS module
 * RDS module
+* Multi Environents
 
 ### **3. Kubernetes Production Deployment Templates**
 
@@ -252,6 +254,7 @@ I build complete, enterprise-grade DevOps ecosystems focusing on **automation, r
 * Pod autoscaling
 * Ingress routing
 * Security policies
+* EKS Cluster Patching
 
 ### **4. Nginx Reverse Proxy + SSL Automation Setup**
 
@@ -270,7 +273,7 @@ I build complete, enterprise-grade DevOps ecosystems focusing on **automation, r
 # 📞 **Contact Me**
 
 📧 **[namdev.it@gmail.com](mailto:namdev.it@gmail.com)**
-📱 **+91-9860755532**
+📱 **+91-7276 12 1983**
 🔗 **LinkedIn:** [https://www.linkedin.com/in/namdevrathod/](https://www.linkedin.com/in/namdevrathod/)
 🔗 **YouTube:** [DevOps With Namdev](https://www.youtube.com/@namdev.devops)
 
