@@ -273,8 +273,11 @@ I build complete, enterprise-grade DevOps ecosystems focusing on **automation, r
 # 📞 **Contact Me**
 
 📧 **[namdev.it@gmail.com](mailto:namdev.it@gmail.com)**
+
 📱 **+91-7276 12 1983**
+
 🔗 **LinkedIn:** [https://www.linkedin.com/in/namdevrathod/](https://www.linkedin.com/in/namdevrathod/)
+
 🔗 **YouTube:** [DevOps With Namdev](https://www.youtube.com/@namdev.devops)
 
 ---
